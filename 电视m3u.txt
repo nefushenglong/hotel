@@ -1,2 +1,0 @@
-https://ghproxy.cc/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
-https://php.946985.filegear-sg.me/jackTV.m3u
